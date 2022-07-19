@@ -1,0 +1,15 @@
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\bin\Debug\net6.0\DemoTiposAnulaveis.exe
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\bin\Debug\net6.0\DemoTiposAnulaveis.deps.json
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\bin\Debug\net6.0\DemoTiposAnulaveis.runtimeconfig.json
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\bin\Debug\net6.0\DemoTiposAnulaveis.dll
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\bin\Debug\net6.0\DemoTiposAnulaveis.pdb
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\obj\Debug\net6.0\DemoTiposAnulaveis.csproj.AssemblyReference.cache
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\obj\Debug\net6.0\DemoTiposAnulaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\obj\Debug\net6.0\DemoTiposAnulaveis.AssemblyInfoInputs.cache
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\obj\Debug\net6.0\DemoTiposAnulaveis.AssemblyInfo.cs
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\obj\Debug\net6.0\DemoTiposAnulaveis.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\obj\Debug\net6.0\DemoTiposAnulaveis.dll
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\obj\Debug\net6.0\refint\DemoTiposAnulaveis.dll
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\obj\Debug\net6.0\DemoTiposAnulaveis.pdb
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\obj\Debug\net6.0\DemoTiposAnulaveis.genruntimeconfig.cache
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoTiposAnulaveis\obj\Debug\net6.0\ref\DemoTiposAnulaveis.dll
