@@ -9,6 +9,8 @@ public class ContaCorrente
     }
     // public decimal Saldo => saldo; // Mesma coisa que o getter de cima (propriedade de leitura)
 
+    public DateTime DataCriacao { get; }
+
     public void Depositar(decimal valor)
     {
         saldo += valor;
@@ -22,5 +24,6 @@ public class ContaCorrente
     public ContaCorrente(decimal valor)
     {
         saldo = valor;
+        DataCriacao = DateTime.Now; // Só pode ser inicializada no construtor
     }
 }
