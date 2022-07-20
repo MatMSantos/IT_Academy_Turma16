@@ -30,4 +30,17 @@ public class ContaCorrente
         DataCriacao = DateTime.Now; // Só pode ser inicializada no construtor
         correntista = umCorrentista;
     }
+
+    /* Copia de codigo - RUIM
+    public ContaCorrente(string nomeCorrentista, string cpfCorrentista)
+    {
+        saldo = 0;
+        DataCriacao = DateTime.Now;
+        correntista = new Correntista{Nome=nomeCorrentista,Cpf=cpfCorrentista};
+    }
+    */
+    public ContaCorrente(string nomeCorrentista, string cpfCorrentista)
+    : this(0,new Correntista{Nome=nomeCorrentista,Cpf=cpfCorrentista})
+    { // Construtor sem reescrita de código
+    }
 }
