@@ -13,7 +13,7 @@ System.Console.WriteLine(listaStrings.Count); // Número de elementos na lista
 foreach (var item in listaStrings)
 {
     System.Console.WriteLine(item);
-} Faz a mesma coisa do que está escrito em uma linha abaixo
+} Faz a mesma coisa do que está escrito abaixo
 */
 
 // Delegates são referências para métodos

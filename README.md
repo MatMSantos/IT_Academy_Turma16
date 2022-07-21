@@ -20,4 +20,4 @@ Tudo está organizado por ordem de explicação, não por tópicos em comum. Por
 - <!> Métodos de extensão
 - <!> Coleções (System.Collections)
 - Listas
-- Delegates: Action, Predicate; Arrow Functions
+(!Importante!) - Delegates: Action, Predicate, Eventos; Arrow Functions
