@@ -14,3 +14,6 @@ Tudo está organizado por ordem de explicação, não por tópicos em comum. Por
   - Escopo, Getters e Setters, Construtores
 - Const, readonly, static
 - <!> Finalizadores (destrutores), Sobrecarga de operadores
+
+## Dia 3:
+- Arrays (1-d, n-d, jagged)
