@@ -17,3 +17,7 @@ Tudo está organizado por ordem de explicação, não por tópicos em comum. Por
 
 ## Dia 3:
 - Arrays (1-d, n-d, jagged)
+- <!> Métodos de extensão
+- <!> Coleções (System.Collections)
+- Listas
+- Delegates: Action, Predicate; Arrow Functions
