@@ -1,0 +1,15 @@
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.exe
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.deps.json
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.runtimeconfig.json
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.dll
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.pdb
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.csproj.AssemblyReference.cache
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.AssemblyInfoInputs.cache
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.AssemblyInfo.cs
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.dll
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\obj\Debug\net6.0\refint\DemoInterfaces.dll
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.pdb
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.genruntimeconfig.cache
+D:\Meus Documentos\Desktop\IT ACADEMY\Workspace\IT_Academy_Turma16\DemoInterfaces\obj\Debug\net6.0\ref\DemoInterfaces.dll
