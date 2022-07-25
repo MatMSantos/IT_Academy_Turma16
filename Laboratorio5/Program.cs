@@ -29,4 +29,4 @@ Console.WriteLine($"Método de Circulo fazendo casting: {((Circulo) circ4).ToStr
 
 Console.WriteLine(circ4 is Circulo);
 Console.WriteLine(circ4 is CirculoColorido);
-CirculoColorido? circ1convertido = circ1 as CirculoColorido; // vai gerar null
+CirculoColorido? circ1convertido = circ1 as CirculoColorido; // Vai gerar null
