@@ -21,3 +21,10 @@ Tudo está organizado por ordem de explicação, não por tópicos em comum. Por
 - <!> Coleções (System.Collections)
 - Listas
 (!Importante!) - Delegates: Action, Predicate, Eventos; Arrow Functions
+
+## Dia 4:
+(Ainda não foi preenchido, infelizmente esqueci e também não fiquei até o final da aula)
+
+## Dia 5:
+- Site Estático vs. Dinâmico
+- Padrão MVC
