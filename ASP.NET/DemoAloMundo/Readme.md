@@ -5,3 +5,5 @@
 - appsettings.json: executado se o ambiente está configurado para produção
 - appsettings.Development.json: desenvolvimento
 - produção, teste, etc.
+
+- Controllers, Actions e Modules

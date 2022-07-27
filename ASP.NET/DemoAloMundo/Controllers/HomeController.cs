@@ -8,13 +8,14 @@ public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(ILogger<HomeController> logger) // Ponto de injeção de dependência via construtor
     {
         _logger = logger;
     }
 
     public IActionResult Index()
     {
+        _logger.LogInformation($"{User} acessou o Index"); // appsettings.Development.json está configurado para Information
         return View();
     }
 
